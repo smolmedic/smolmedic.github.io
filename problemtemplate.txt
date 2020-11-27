@@ -1,0 +1,36 @@
+|@@background-color: #eac9c9; ''Etio:''@@ |@@background-color: #ede7f6; ''Management:''@@|
+|@@background-color: #ffe0b2; ''Symptoms:''@@|~|
+|@@background-color: #dcedc8; ''Signs:''@@|~|
+|@@background-color: #e3f2fd; ''Ix:''@@|~|
+
+|@@background-color: #eac9c9; ''Etio:''@@|
+|@@background-color: #ffe0b2; ''Symptoms:''@@|
+|@@background-color: #dcedc8; ''Signs:''@@|
+|@@background-color: #e3f2fd; ''Ix:''@@|
+|@@background-color: #ede7f6; ''Management:''@@|
+
+
+|@@background-color: #ffe0b2; ''History:''@@|@@background-color: #ede7f6; ''Principles of mx:''@@|
+|@@background-color: #dcedc8; ''O/E:''@@|
+|@@background-color: #e3f2fd; ''Ix:''@@|
+
+|background-color: #EAC9C9;''Definition:''|background-color: #ede7f6;''Principles of mx:''|
+|background-color: #ffe0b2;''History:''|~|
+|background-color: #dcedc8;''O/E:''|~|
+|background-color: #e3f2fd;''Ix:''|~|
+
+➥➥ 
+
+|@@background-color: #EAC9C9; ''How it works:''@@|
+|@@background-color: #ffe0b2; ''Indications:''@@|
+|@@background-color: #dcedc8; ''Signs:''@@|
+|@@background-color: #e3f2fd; ''Adverse effects:''@@|
+|@@background-color: #ede7f6; ''Management:''@@|
+
+
+|background-color: #EAC9C9;''Indication:''|-|
+|background-color: #EAC9C9;''Mechanism of action:''|-|
+|background-color: #ffe0b2;''Advantages:''|~|
+|background-color: #e3f2fd;''Adverse effects:''|-|
+|background-color: #e3f2fd;''Contraindications:''|-|
+|background-color: #ede7f6;''Administration:''|-|
