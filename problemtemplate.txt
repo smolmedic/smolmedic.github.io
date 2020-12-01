@@ -1,32 +1,101 @@
-|@@background-color: #eac9c9; ''Etio:''@@ |@@background-color: #ede7f6; ''Management:''@@|
-|@@background-color: #ffe0b2; ''Symptoms:''@@|~|
-|@@background-color: #dcedc8; ''Signs:''@@|~|
-|@@background-color: #e3f2fd; ''Ix:''@@|~|
+|tableclass|k
+|''Etio:'' |''Management:''|
+|''Symptoms:'' |~|
+|''Signs:'' |~|
+|''Ix:'' |~|
 
-|@@background-color: #eac9c9; ''Etio:''@@|
-|@@background-color: #ffe0b2; ''Symptoms:''@@|
-|@@background-color: #dcedc8; ''Signs:''@@|
-|@@background-color: #e3f2fd; ''Ix:''@@|
-|@@background-color: #ede7f6; ''Management:''@@|
+|historyclass|k
+|''History:''|
+|''O/E:''|
+|''Ix:''|
+|''Principles of mx:''|
 
+|singlecol|k
+|''Etio:''|
+|''Symptoms:'' |
+|''Signs:'' |
+|''Ix:'' |
+|''Mx:''|
+
+|murmurclass|k
+|''Etio:'' |''Murmur:''|
+|''Symptoms:'' |''Management:''|
+|''Signs:'' |~|
+|''Ix:'' |~|
+
+
+|<td style = "background-color: #eac9c9;">''Etio:''</td>|<td style = "background-color: #ede7f6;">''Mx:''</td>|
+|<td style = "background-color: #ffe0b2;">''Symptoms:'' </td>|~|
+|<td style = "background-color: #dcedc8;">''Signs:'' </td>|~|
+|<td style = "background-color: #e3f2fd;">''Ix:'' </td>|~|
+
+|<td style = "background-color: #eac9c9;">''Etio:''</td>|
+|<td style = "background-color: #ffe0b2;">''Symptoms:'' </td>|~|
+|<td style = "background-color: #dcedc8;">''Signs:'' </td>|~|
+|<td style = "background-color: #e3f2fd;">''Ix:'' </td>|~|
+|<td style = "background-color: #ede7f6;">''Mx:''</td>|
 
 |@@background-color: #ffe0b2; ''History:''@@|@@background-color: #ede7f6; ''Principles of mx:''@@|
 |@@background-color: #dcedc8; ''O/E:''@@|
 |@@background-color: #e3f2fd; ''Ix:''@@|
 
-|background-color: #EAC9C9;''Definition:''|background-color: #ede7f6;''Principles of mx:''|
-|background-color: #ffe0b2;''History:''|~|
-|background-color: #dcedc8;''O/E:''|~|
-|background-color: #e3f2fd;''Ix:''|~|
+
+
+table.historyclass > tbody > tr:nth-child(1) > td:nth-child(1) {background-color: #ffe0b2;}
+
+table.historyclass > tbody > tr:nth-child(2) > td:nth-child(1) {background-color: #dcedc8;}
+
+table.historyclass > tbody > tr:nth-child(3) > td:nth-child(1) {background-color: #e3f2fd;}
+
+table.historyclass > tbody > tr:nth-child(1) > td:nth-child(2) {background-color: #ede7f6;}
+
+
+GENERIC CONDITIONS
+table.tableclass > tbody > tr:nth-child(1) > td:nth-child(1) {background-color: #eac9c9;}
+
+table.tableclass > tbody > tr:nth-child(2) > td:nth-child(1) {background-color: #ffe0b2;}
+
+table.tableclass > tbody > tr:nth-child(3) > td:nth-child(1) {background-color: #dcedc8;}
+
+table.tableclass > tbody > tr:nth-child(4) > td:nth-child(1) {background-color: #e3f2fd;}
+
+table.tableclass > tbody > tr:nth-child(1) > td:nth-child(2) {background-color: #ede7f6;}
+
+
+
+SINGLE COLUMN LAYOUT
+table.tableclass > tbody > tr:nth-child(1) > td:nth-child(1) {background-color: #eac9c9;}
+
+table.tableclass > tbody > tr:nth-child(2) > td:nth-child(1) {background-color: #ffe0b2;}
+
+table.tableclass > tbody > tr:nth-child(3) > td:nth-child(1) {background-color: #dcedc8;}
+
+table.tableclass > tbody > tr:nth-child(4) > td:nth-child(1) {background-color: #e3f2fd;}
+
+table.tableclass > tbody > tr:nth-child(5) > td:nth-child(1) {background-color: #ede7f6;}
+
+MURMUR LAYOUT/WITH ASSESSMENT CELL
+table.tableclass > tbody > tr:nth-child(1) > td:nth-child(1) {background-color: #eac9c9;}
+
+table.tableclass > tbody > tr:nth-child(2) > td:nth-child(1) {background-color: #ffe0b2;}
+
+table.tableclass > tbody > tr:nth-child(3) > td:nth-child(1) {background-color: #dcedc8;}
+
+table.tableclass > tbody > tr:nth-child(4) > td:nth-child(1) {background-color: #e3f2fd;}
+
+table.tableclass > tbody > tr:nth-child(1) > td:nth-child(2) {background-color: #fff9c4;}
+
+table.tableclass > tbody > tr:nth-child(1) > td:nth-child(2) {background-color: #ede7f6;}
+
+
 
 ➥➥ 
 
-|@@background-color: #EAC9C9; ''How it works:''@@|
-|@@background-color: #ffe0b2; ''Indications:''@@|
-|@@background-color: #dcedc8; ''Signs:''@@|
-|@@background-color: #e3f2fd; ''Adverse effects:''@@|
-|@@background-color: #ede7f6; ''Management:''@@|
-
+|''How it works:''|
+|''Indications:''|
+|''Signs:''|
+|''Adverse effects:''|
+|''Management:''|
 
 |background-color: #EAC9C9;''Indication:''|-|
 |background-color: #EAC9C9;''Mechanism of action:''|-|
