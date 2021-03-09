@@ -7,3 +7,6 @@ These notes are powered by [Tiddlywiki](tiddlywiki.com), a wiki-style notebook s
 
 ## Main sources
 BMJ Best Practice, NICE guidelines, LITFL, OHCM. Links to external resources such as specific guidelines, podcasts and articles given below the main body.
+
+## Can I add something?
+It's Github, so sure! Anyone can edit, but you'll need to save it locally, then add as a new branch and there's a good chance you already knew that if you're regularly on Github.
