@@ -10,3 +10,5 @@ BMJ Best Practice, NICE guidelines, LITFL, OHCM. Links to external resources suc
 
 ## Can I add something?
 It's Github, so sure! Anyone can edit, but you'll need to save it locally, then add as a new branch and there's a good chance you already knew that if you're regularly on Github.
+
+[![HitCount](http://hits.dwyl.com/smolmedic/smolmedic.svg)](http://hits.dwyl.com/smolmedic/smolmedic)
