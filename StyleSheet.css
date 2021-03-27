@@ -1,0 +1,20 @@
+body {
+    font-size: 1.1em;
+    font-family: Gill Sans MT; 
+}
+
+#mainMenu {
+	margin-bottom: 0.5em;
+	margin-right: 0.5em;
+	font-size: 0.8em;
+}
+
+.tiddler {
+	padding: 0.1em 0.1em 0;
+	margin-left: -4.0em;
+	margin-right: -1.5em;
+}
+
+#sidebar {
+	padding:0.2em 0.3em;
+}

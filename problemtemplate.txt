@@ -5,10 +5,9 @@
 |''Ix:'' |~|
 
 |historyclass|k
-|''History:''|
-|''O/E:''|
-|''Ix:''|
-|''Principles of mx:''|
+|''History:''|''Principles of mx:''|
+|''O/E:''|~|
+|''Ix:''|~|
 
 |singlecol|k
 |''Etio:''|
@@ -23,21 +22,23 @@
 |''Signs:'' |~|
 |''Ix:'' |~|
 
+☆ 
+➥➥ 
 
-|<td style = "background-color: #eac9c9;">''Etio:''</td>|<td style = "background-color: #ede7f6;">''Mx:''</td>|
-|<td style = "background-color: #ffe0b2;">''Symptoms:'' </td>|~|
-|<td style = "background-color: #dcedc8;">''Signs:'' </td>|~|
-|<td style = "background-color: #e3f2fd;">''Ix:'' </td>|~|
+|''How it works:''|
+|''Indications:''|
+|''Signs:''|
+|''Adverse effects:''|
+|''Management:''|
 
-|<td style = "background-color: #eac9c9;">''Etio:''</td>|
-|<td style = "background-color: #ffe0b2;">''Symptoms:'' </td>|~|
-|<td style = "background-color: #dcedc8;">''Signs:'' </td>|~|
-|<td style = "background-color: #e3f2fd;">''Ix:'' </td>|~|
-|<td style = "background-color: #ede7f6;">''Mx:''</td>|
+|''How it works:''|
+|''Advantages:''|
+|''Contraindications:''|
+|''Adverse effects:''|
+|''Administration:''|
 
-|@@background-color: #ffe0b2; ''History:''@@|@@background-color: #ede7f6; ''Principles of mx:''@@|
-|@@background-color: #dcedc8; ''O/E:''@@|
-|@@background-color: #e3f2fd; ''Ix:''@@|
+<<list-links [tag[autoimmune]]>>
+
 
 
 
@@ -74,6 +75,8 @@ table.tableclass > tbody > tr:nth-child(4) > td:nth-child(1) {background-color: 
 
 table.tableclass > tbody > tr:nth-child(5) > td:nth-child(1) {background-color: #ede7f6;}
 
+
+
 MURMUR LAYOUT/WITH ASSESSMENT CELL
 table.tableclass > tbody > tr:nth-child(1) > td:nth-child(1) {background-color: #eac9c9;}
 
@@ -86,20 +89,3 @@ table.tableclass > tbody > tr:nth-child(4) > td:nth-child(1) {background-color: 
 table.tableclass > tbody > tr:nth-child(1) > td:nth-child(2) {background-color: #fff9c4;}
 
 table.tableclass > tbody > tr:nth-child(1) > td:nth-child(2) {background-color: #ede7f6;}
-
-
-
-➥➥ 
-
-|''How it works:''|
-|''Indications:''|
-|''Signs:''|
-|''Adverse effects:''|
-|''Management:''|
-
-|background-color: #EAC9C9;''Indication:''|-|
-|background-color: #EAC9C9;''Mechanism of action:''|-|
-|background-color: #ffe0b2;''Advantages:''|~|
-|background-color: #e3f2fd;''Adverse effects:''|-|
-|background-color: #e3f2fd;''Contraindications:''|-|
-|background-color: #ede7f6;''Administration:''|-|
